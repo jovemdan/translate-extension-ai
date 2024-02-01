@@ -9,7 +9,7 @@ Esta é uma extensão simples para o Chrome que utiliza a API da OpenAI para tra
 
 2. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/jovemdan/translate-extension-ai.git
 
 3. **Configure suas Credenciais:**
    - Crie um arquivo .env se baseando no .env.example, e substitua com sua chave da OpenAI.
