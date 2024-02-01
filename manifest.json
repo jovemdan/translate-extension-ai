@@ -3,7 +3,7 @@
   "name": "Tradutor OpenAI",
   "version": "1.0",
   "description": "Uma extensão para traduzir texto usando a API da OpenAI.",
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html"
   },
   "permissions": [
