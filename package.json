@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "concurrently \"npm run start-extension\" \"npm run start-server\"",
+    "start-extension": "your-command-to-start-extension",
+    "start-server": "python -m http.server"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.4.1"
+  }
+}
