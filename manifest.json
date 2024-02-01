@@ -1,4 +1,5 @@
 {
+  "manifest_version": 3,
   "name": "Tradutor OpenAI",
   "version": "1.0",
   "description": "Uma extensão para traduzir texto usando a API da OpenAI.",
