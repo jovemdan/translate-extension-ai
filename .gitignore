@@ -1,0 +1,22 @@
+# Arquivos e diretórios específicos da extensão Chrome
+node_modules/
+*.log
+*.zip
+
+# Arquivos de configuração locais
+.env
+
+# Arquivos de configuração do sistma operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do editor de texto
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de saída e compilação
+/dist/
+/build/
+/out/
+s
